@@ -88,3 +88,10 @@ curl -X POST "http://localhost:3006/change_email" \
 - `400`: Bad request (invalid or missing parameters)
 - `401`: Unauthorized (missing token)
 - `403`: Forbidden (invalid token or tenant ID)
+
+
+
+
+## Author
+- **Name**: Thai Phung
+- **Created on**: 11/2025

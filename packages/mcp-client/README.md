@@ -76,3 +76,9 @@ mcp-client/
 ├── requirements.txt    # Python dependencies
 └── README.md          # This file
 ```
+
+
+
+## Author
+- **Name**: Thai Phung
+- **Created on**: 11/2025

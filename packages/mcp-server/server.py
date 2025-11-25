@@ -1,3 +1,7 @@
+"""
+Thai Phung - MCP Server tool
+"""
+
 import jwt
 import subprocess
 import json

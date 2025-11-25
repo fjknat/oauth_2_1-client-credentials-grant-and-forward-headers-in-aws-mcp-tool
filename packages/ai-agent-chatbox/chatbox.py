@@ -1,5 +1,5 @@
 """
-CLI Chatbox with Rich UI
+Thai Phung - CLI Chatbox with Rich UI
 """
 
 import sys

@@ -7,6 +7,7 @@ const JWT_SECRET = 'your-secret-key'; // Change this in production
 
 app.use(express.json());
 
+// Thai Phung - Middleware and Endpoints for API Server
 // Middleware: Verify JWT Bearer token
 const authenticateToken = (req, res, next) => {
     const authHeader = req.headers['authorization'];

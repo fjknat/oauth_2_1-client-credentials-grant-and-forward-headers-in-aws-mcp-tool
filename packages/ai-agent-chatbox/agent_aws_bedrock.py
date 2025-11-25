@@ -1,5 +1,5 @@
 """
-AI Agent with Session Management and State
+Thai Phung - AI Agent with Session Management and State
 """
 
 from strands import Agent

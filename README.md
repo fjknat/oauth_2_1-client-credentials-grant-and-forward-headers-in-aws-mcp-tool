@@ -260,3 +260,7 @@ The following table compares **Client Credentials Grant** (as a standard authent
 Please ensure you update the `README.md` of specific packages if you modify their core logic or configuration requirements.
 
 
+
+## Author
+- **Name**: Thai Phung
+- **Created on**: 11/2025

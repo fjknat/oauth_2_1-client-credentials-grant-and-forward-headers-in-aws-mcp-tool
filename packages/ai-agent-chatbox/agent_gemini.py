@@ -1,5 +1,5 @@
 """
-AI Agent with Gemini Model
+Thai Phung - AI Agent with Gemini Model
 """
 
 from mcp.client.streamable_http import streamablehttp_client

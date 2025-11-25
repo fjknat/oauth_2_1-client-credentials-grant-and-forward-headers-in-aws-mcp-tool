@@ -87,3 +87,10 @@ The server is configured via variables in `server.py`:
     ```
 4.  **Connect a Client**:
     Configure your MCP client (like the AI Agent Chatbox) to connect to `http://localhost:3005/mcp` and ensure it sends the required auth headers.
+
+
+
+
+## Author
+- **Name**: Thai Phung
+- **Created on**: 11/2025

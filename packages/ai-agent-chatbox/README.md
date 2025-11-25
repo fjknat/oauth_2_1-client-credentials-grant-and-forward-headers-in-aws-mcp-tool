@@ -133,3 +133,9 @@ ai-agent-chatbox/
 - [ ] Configurable MCP server URL via CLI args.
 - [ ] Multi-turn tool execution visualization.
 - [ ] Support for local LLMs (Ollama).
+
+
+
+## Author
+- **Name**: Thai Phung
+- **Created on**: 11/2025
